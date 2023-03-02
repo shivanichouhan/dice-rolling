@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dice-rolling/static/css/main.8b592f8a.css",
+    "main.js": "/dice-rolling/static/js/main.94567aa7.js",
+    "static/js/787.53a33be3.chunk.js": "/dice-rolling/static/js/787.53a33be3.chunk.js",
+    "index.html": "/dice-rolling/index.html",
+    "main.8b592f8a.css.map": "/dice-rolling/static/css/main.8b592f8a.css.map",
+    "main.94567aa7.js.map": "/dice-rolling/static/js/main.94567aa7.js.map",
+    "787.53a33be3.chunk.js.map": "/dice-rolling/static/js/787.53a33be3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b592f8a.css",
+    "static/js/main.94567aa7.js"
+  ]
+}
